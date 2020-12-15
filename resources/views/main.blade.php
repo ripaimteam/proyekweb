@@ -51,9 +51,11 @@
                         <a href=""> <i class="menu-icon fa fa-puzzle-piece"></i>Package </a>
                     </li>
                     <li>
-                        <a href=""> <i class="menu-icon fa fa-puzzle-piece"></i>Contact Us </a>
+                        <a href=""> <i class="menu-icon ti-email"></i>Contact Us </a>
                     </li>
-                    
+                    <li>
+                        <a href=""> <i class="menu-icon fa fa-laptop"></i>About </a>
+                    </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </nav>
