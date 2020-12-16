@@ -42,10 +42,10 @@
             <div id="main-menu" class="main-menu collapse navbar-collapse">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href=""> <i class="menu-icon fa fa-dashboard"></i>Dashboard </a>
+                        <a href="/home"> <i class="menu-icon fa fa-dashboard"></i>Dashboard </a>
                     </li>
                     <li>
-                        <a href=""> <i class="menu-icon fa fa-puzzle-piece"></i>Package </a>
+                        <a href="/package"> <i class="menu-icon fa fa-puzzle-piece"></i>Package </a>
                     </li>
                     <li>
                         <a href=""> <i class="menu-icon ti-email"></i>Contact Us </a>
