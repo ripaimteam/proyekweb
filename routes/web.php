@@ -14,9 +14,15 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
 Route::get('home', function () {
     return view('home');
 });
+
 Route::get('package', function () {
     return view('package');
+});
+
+Route::get('about', function () {
+    return view('about');
 });
