@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Login Bromo Travelling</title>
+    <title>Signin Template for Bootstrap</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/sign-in/">
 
@@ -21,13 +21,16 @@
     <div class="container"> 
         <form class="form-signin">
             <img class="mb-4" src="img/favicon.png" alt="" width="72" height="72">
-            <h1 class="h3 mb-3 font-weight-normal">Login Bromo Travelling</h1>
+            <h1 class="h3 mb-3 font-weight-normal">Register Bromo Travelling</h1>
             <label for="inputEmail" class="sr-only">Email address</label>
-            <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+            <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
             <label for="inputPassword" class="sr-only">Password</label>
-            <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
-            <br>
-            <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>
+            <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
+
+            <label for="inputPassword" class="sr-only">Confirm Password</label>
+            <input type="password" name="password_confirmation" id="inputPassword" class="form-control" placeholder="Confirm Password" required>
+            
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Register</button>
             <p class="mt-5 mb-3 text-muted">&copy; Copyright 2020</p>
           </form>
     </div>
