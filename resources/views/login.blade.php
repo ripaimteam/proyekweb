@@ -20,6 +20,7 @@
   <body class="text-center">
     <div class="container"> 
         <form class="form-signin">
+            {{ csrf_field() }}
             <img class="mb-4" src="img/favicon.png" alt="" width="72" height="72">
             <h1 class="h3 mb-3 font-weight-normal">Login Bromo Travelling</h1>
             <label for="inputEmail" class="sr-only">Email address</label>

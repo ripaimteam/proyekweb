@@ -20,10 +20,13 @@
   <body class="text-center">
     <div class="container"> 
         <form class="form-signin">
+            {{ csrf_field() }}
             <img class="mb-4" src="img/favicon.png" alt="" width="72" height="72">
             <h1 class="h3 mb-3 font-weight-normal">Register Bromo Travelling</h1>
             <label for="inputEmail" class="sr-only">Email address</label>
-            <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+            <input type="text" name="name" id="inputName" class="form-control" placeholder="Please insert your name" required autofocus>
+            <label for="inputEmail" class="sr-only">Email address</label>
+            <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required>
             <label for="inputPassword" class="sr-only">Password</label>
             <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
 
