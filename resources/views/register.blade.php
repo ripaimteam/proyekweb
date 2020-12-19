@@ -1,41 +1,90 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+@extends('main')
 
-    <title>Signin Template for Bootstrap</title>
+@section('content')
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">{{ __('Register') }}</div>
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/sign-in/">
+                <div class="card-body">
+                    <form method="POST" >
+                        @csrf
 
-    <!-- Bootstrap core CSS -->
-    <link href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css" rel="stylesheet">
+                        <div class="form-group row">
+                            <label for="name" class="col-md-4 col-form-label text-md-right">{{ __('Name') }}</label>
 
-    <!-- Custom styles for this template -->
-    <link href="signin.css" rel="stylesheet">
-  </head>
+                            <div class="col-md-6">
+                                <input id="name" type="text" class="form-control @error('name') is-invalid @enderror" name="name" value="{{ old('name') }}" required autocomplete="name" autofocus>
 
-  <body class="text-center">
-    <div class="container"> 
-        <form class="form-signin">
-            {{ csrf_field() }}
-            <img class="mb-4" src="img/favicon.png" alt="" width="72" height="72">
-            <h1 class="h3 mb-3 font-weight-normal">Register Bromo Travelling</h1>
-            <label for="inputEmail" class="sr-only">Email address</label>
-            <input type="text" name="name" id="inputName" class="form-control" placeholder="Please insert your name" required autofocus>
-            <label for="inputEmail" class="sr-only">Email address</label>
-            <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required>
-            <label for="inputPassword" class="sr-only">Password</label>
-            <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
+                                @error('name')
+                                    <span class="invalid-feedback" role="alert">
+                                        <strong>{{ $message }}</strong>
+                                    </span>
+                                @enderror
+                            </div>
+                        </div>
 
-            <label for="inputPassword" class="sr-only">Confirm Password</label>
-            <input type="password" name="password_confirmation" id="inputPassword" class="form-control" placeholder="Confirm Password" required>
-            
-            <button class="btn btn-lg btn-primary btn-block" type="submit">Register</button>
-            <p class="mt-5 mb-3 text-muted">&copy; Copyright 2020</p>
-          </form>
+                        <div class="form-group row">
+                            <label for="email" class="col-md-4 col-form-label text-md-right">{{ __('E-Mail Address') }}</label>
+
+                            <div class="col-md-6">
+                                <input id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email">
+
+                                @error('email')
+                                    <span class="invalid-feedback" role="alert">
+                                        <strong>{{ $message }}</strong>
+                                    </span>
+                                @enderror
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label for="password" class="col-md-4 col-form-label text-md-right">{{ __('Password') }}</label>
+
+                            <div class="col-md-6">
+                                <input id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="new-password">
+
+                                @error('password')
+                                    <span class="invalid-feedback" role="alert">
+                                        <strong>{{ $message }}</strong>
+                                    </span>
+                                @enderror
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label for="password-confirm" class="col-md-4 col-form-label text-md-right">{{ __('Confirm Password') }}</label>
+
+                            <div class="col-md-6">
+                                <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required autocomplete="new-password">
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <div class="col-md-6 offset-md-4">
+                                <div class="g-recaptcha" data-sitekey="{{env('CAPTCHA_KEY')}}"></div>
+                                
+                                @if($errors->has('g-recaptcha-response'))
+                                    <span class ="invalid-feedback" style="display:block">
+                                        <strong>{{$errors->has('g-recaptcha-response')}}</strong>
+                                    </span>
+                                @endif
+
+                            </div>    
+                        </div>
+
+                        <div class="form-group row mb-0">
+                            <div class="col-md-6 offset-md-4">
+                                <button type="submit" class="btn btn-primary">
+                                    {{ __('Register') }}
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
     </div>
-  </body>
-</html>
+</div>
+@endsection
