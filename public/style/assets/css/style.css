@@ -600,4 +600,20 @@ header .form-inline {
 .language-show + .dropdown-menu {
   display: block; }
 
+.rental-produk {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #e1e1e1;
+    box-shadow: 0 4px 8px #e9e9e9;
+    min-height: 300px;
+    text-align: center;
+    background-color: #FFF;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.tombol {
+  width: 201px;
+  margin-right: auto;
+  margin-left: auto;
+}
 /*# sourceMappingURL=style.css.map */
