@@ -26,5 +26,49 @@
 @endsection
 
 @section('content')
-   
+<div id="areaprint">
+	<div id="headback">
+		<div class="overback bgtop"></div>
+		<div class="titleheader">
+		
+		</div>
+	</div>
+	<div id="conwrap">
+		<div class="contain">		
+			<div class="wrap-post full">
+				<p><b>Bromo Traveling</b></p>
+<p><img loading="lazy" class="alignnone wp-image-960 size-full" src="img/favicon.png" alt="" width="200" height="107" /></p>
+<p>Adalah penyedia jasa Rental Mobil Tour and Travel yang berada di kota Malang Jawa Timur. Bila anda berkunjung ke kota Malang tidak salah bila memilih kami sebagai tour organizer bagi anda dan keluarga, kerabat, teman sahabat atau kolega anda</p>
+<p>Kami menyediakan berbagai pilihan paket tour di jawa dan bali salah satu diantaranya :</p>
+<ul>
+<li>Trip Gunung Bromo</li>
+
+</ul>
+<p><strong>VISI </strong></p>
+<p>Menjadi travel agent yang terbaik dan terpercaya dalam memberikan mutu serta pelayanan kepada para wisatawan.</p>
+<p><strong>MISI</strong></p>
+<p>1. Membantu memudahkan perencanaan perjalanan yang nyaman bagi para calon wisatawan.<br />
+2. Memberikan banyak pilihan dalam paket – paket perjalanan yang menarik dan berkualitas.<br />
+3. Membantu dalam hal pemesanan tiket domestik dan internasional sesuai dengan tanggal keberangkatan yang diinginkan pengguna jasa.<br />
+4. Selalu berusaha meningkatkan pelayanan terbaik demi kepuasan pengguna jasa.</p>
+								<div>
+	<p class="small"># Bagikan informasi ini kepada teman atau kerabat Anda</p>	<!-- Facebook -->
+	<a href="http://www.facebook.com/sharer.php?u=https://karimatawisata.com/tentang-kami/&amp;t=Tentang Kami" target="_blank" title="Bagikan ke Facebook">
+	<span class="el-icon-facebook shareicon" style="color:#3B5997"></span></a>
+	 
+	<!-- Twitter -->
+	<a href="http://twitter.com/share?url=https://karimatawisata.com/tentang-kami/&text=Tentang Kami" target="_blank" title="Bagikan ke Twitter"><span class="el-icon-twitter shareicon" style="color:#00aced"></span></a>
+			 
+	<!-- Digg -->
+	<a href="http://www.digg.com/submit?url=https://karimatawisata.com/tentang-kami/" target="_blank" title="Bagikan ke Digg"><span class="el-icon-digg shareicon" style="color:#006094"></span></a>
+			 
+	<!-- LinkedIn -->
+	<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://karimatawisata.com/tentang-kami/" target="_blank" title="Bagikan ke Linkedin"><span class="el-icon-linkedin shareicon" style="color:#0077B5"></span></a>
+	 
+	<!-- Pinterest -->
+	<a href="http://pinterest.com/pin/create/button/?url=https://karimatawisata.com/tentang-kami/&media=https://karimatawisata.com/wp-content/uploads/2017/07/WhatsApp-Image-2019-10-10-at-17.19.16-1024x576.jpeg&description=Tentang Kami" class="pin-it-button" count-layout="none" target="_blank" title="Bagikan ke Pinterest"><span class="el-icon-pinterest shareicon" style="color:#BD081C"></span></a>
+	
+	<!-- Whatsapp -->
+	<a href="whatsapp://send?text=https://karimatawisata.com/tentang-kami/" title="Bagikan ke Whatsapp"><img class="shareicon" style="margin-top:-20px" width="38" src="https://karimatawisata.com/wp-content/themes/wizata1dot1ad/images/wa-share.jpg"></a>
+</div>  
 @endsection
