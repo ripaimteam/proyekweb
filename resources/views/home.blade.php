@@ -59,5 +59,5 @@ Open Trip Gunung Bromo Sunrise Murah, Paket wisata gabungan atau sharing trip at
 Bromo Sunrise setiap hari dari kota Batu dan Malang, setiap minggu dari Surabaya, Bromo - Air Terjun Madakaripura, Bromo Puncak B29/P30 dan Bromo - Kawah Ijen dengan pemberangkatan terjadwal setiap bulan hingga akhir tahun 2020.<br />
 <br />
 
-<
+<iframe type="text/html" frameborder="0" width="900" height="600" src="https://www.youtube.com/embed/cgopt2BxGFw?autoplay=1&modestbranding=1" allowfullscreen></iframe>
 @endsection 

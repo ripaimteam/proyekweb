@@ -55,7 +55,7 @@
     </div>
 
 <div class="tombol">
-<a href="" class="small beli blue">Pesan Sekarang  <span class="glyphicon glyphicon-chevron-right"></span></a>
+<a href="https://api.whatsapp.com/send?phone=+6289601506336&text=Halo"> <font color="red">Pesan Sekarang</font></button></a>
 </div>
 
 </div></div>
@@ -89,7 +89,7 @@
     </div>
 
 <div class="tombol">
-<a href="" class="small beli blue">Pesan Sekarang  <span class="glyphicon glyphicon-chevron-right"></span></a>
+<a href="https://api.whatsapp.com/send?phone=+6289601506336&text=Halo"> <font color="red">Pesan Sekarang</font></button></a>
 </div>
 
 </div></div>
@@ -120,7 +120,7 @@
     </div>
 
 <div class="tombol">
-<a href="" class="small beli blue">Pesan Sekarang  <span class="glyphicon glyphicon-chevron-right"></span></a>
+<a href="https://api.whatsapp.com/send?phone=+6289601506336&text=Halo"> <font color="red">Pesan Sekarang</font></button></a>
 </div>
 
 </div></div>
