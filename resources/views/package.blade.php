@@ -29,10 +29,10 @@
 <div class="row"><div class="boxer2">
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="" ><img src="img/per.jpeg" alt="Rental Mobil Malang &#8211; Grand Innova" width="220" height="147"  />
+<div class="rental-gambar"><a  ><img src="img/per.jpeg" width="220" height="147"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/rental-mobil-malang-grand-innova/" title="Rental Mobil Malang &#8211; Grand Innova">Private Trip</a></div>
+<div class="rental-title-produk"><a>Private Trip</a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
@@ -59,12 +59,13 @@
 </div>
 
 </div></div>
+
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/sewa-mobil-malang-avanza/" title="Sewa Mobil Malang &#8211; Avanza"><img src="img/wer.jfif" alt="Sewa Mobil Malang &#8211; Avanza" width="220" height="150"  />
+<div class="rental-gambar"><a><img src="img/wer.jfif"  width="220" height="150"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/sewa-mobil-malang-avanza/" title="Sewa Mobil Malang &#8211; Avanza"> Private Trip</div>
+<div class="rental-title-produk"><a > Private Trip</div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
@@ -94,10 +95,10 @@
 </div></div>
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/rental-mobil-malang-avanza/" title="Rental Mobil Malang &#8211; Avanza"><img src="img/se.jfif" alt="Rental Mobil Malang &#8211; Avanza" width="220" height="150"  />
+<div class="rental-gambar"><a ><img src="img/se.jfif"  width="220" height="150"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/rental-mobil-malang-avanza/" title="Rental Mobil Malang &#8211; Avanza">Bromo Trip </a></div>
+<div class="rental-title-produk"><a >Bromo Trip </a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
@@ -125,10 +126,10 @@
 </div></div>
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/rental-mobil-malang-innova-reborn/" title="Rental Mobil Malang &#8211; Innova Reborn"><img src="img/er.jfif" alt="Rental Mobil Malang &#8211; Innova Reborn" width="220" height="138"  />
+<div class="rental-gambar"><a ><img src="img/er.jfif"  width="220" height="138"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/rental-mobil-malang-innova-reborn/" title="Rental Mobil Malang &#8211; Innova Reborn">Bromo Trip</a></div>
+<div class="rental-title-produk"><a >Bromo Trip</a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
@@ -157,10 +158,10 @@
 </div></div>
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/sewa-elf-di-malang-termurah/" title="Sewa Elf di Malang Termurah"><img src="img/sd.jfif" alt="Sewa Elf di Malang Termurah" width="220" height="138""  />
+<div class="rental-gambar"><a><img src="img/sd.jfif"  width="220" height="138""  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/sewa-elf-di-malang-termurah/" title="Sewa Elf di Malang Termurah">Bromo Trip</a></div>
+<div class="rental-title-produk"><a >Bromo Trip</a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
@@ -189,10 +190,10 @@
 </div></div>
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/sewa-mobil-murah-hiace/" title="Sewa Mobil Hiace di Malang"><img src="img/y.jfif" alt="Sewa Mobil Hiace di Malang" width="220" height="138"  />
+<div class="rental-gambar"><a ><img src="img/y.jfif"  width="220" height="138"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/sewa-mobil-murah-hiace/" title="Sewa Mobil Hiace di Malang">Full Trip</a></div>
+<div class="rental-title-produk"><a >Full Trip</a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								

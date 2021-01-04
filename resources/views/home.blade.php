@@ -53,7 +53,7 @@
 </div>
 </div>
 <div class='post-body entry-content float-container' id='post-body-8447892443786240306'>
-<a href="https://1.bp.blogspot.com/-PcyaoBRvACc/X6q5lXe8CTI/AAAAAAABYw4/4ykid95fGiAwmPqhGeHvLnUXCp8xkHfCgCPcBGAYYCw/s1600/open-trip-bromo.jpg" ><img alt="wisata bromo" border="0" src="https://1.bp.blogspot.com/-PcyaoBRvACc/X6q5lXe8CTI/AAAAAAABYw4/4ykid95fGiAwmPqhGeHvLnUXCp8xkHfCgCPcBGAYYCw/s1600/open-trip-bromo.jpg" title="paket wisata open trip bromo sunrise new normal 2020"/></a><br />
+<a href="https://1.bp.blogspot.com/-PcyaoBRvACc/X6q5lXe8CTI/AAAAAAABYw4/4ykid95fGiAwmPqhGeHvLnUXCp8xkHfCgCPcBGAYYCw/s1600/open-trip-bromo.jpg" ><img alt="wisata bromo" border="P" src="https://1.bp.blogspot.com/-PcyaoBRvACc/X6q5lXe8CTI/AAAAAAABYw4/4ykid95fGiAwmPqhGeHvLnUXCp8xkHfCgCPcBGAYYCw/s1600/open-trip-bromo.jpg" title="paket wisata open trip bromo sunrise new normal 2020"/></a><br />
 <br />
 Open Trip Gunung Bromo Sunrise Murah, Paket wisata gabungan atau sharing trip atau open trip dengan destinasi utama Gunung dan Kawah Bromo, serta fenomena alam Golden Sunrise Gunung Bromo. Kami kemas dalam paket wisata tanpa menginap dengan 5 (lima) variasi paket open trip Bromo.<br />
 Bromo Sunrise setiap hari dari kota Batu dan Malang, setiap minggu dari Surabaya, Bromo - Air Terjun Madakaripura, Bromo Puncak B29/P30 dan Bromo - Kawah Ijen dengan pemberangkatan terjadwal setiap bulan hingga akhir tahun 2020.<br />
