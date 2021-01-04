@@ -101,7 +101,7 @@
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
-                <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 400.000</strong></span></li>
+                <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 350.000</strong></span></li>
              
  						
              <li><span>Destinasi :</span> <span class="right">All Destinasi</span></li>
@@ -125,38 +125,26 @@
 </div></div>
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/rental-mobil-malang-innova-reborn/" title="Rental Mobil Malang &#8211; Innova Reborn"><img src="img/images.jfif" alt="Rental Mobil Malang &#8211; Innova Reborn" width="220" height="138"  />
+<div class="rental-gambar"><a href="https://rentcar-malang.com/rental-mobil-malang-innova-reborn/" title="Rental Mobil Malang &#8211; Innova Reborn"><img src="img/er.jfif" alt="Rental Mobil Malang &#8211; Innova Reborn" width="220" height="138"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/rental-mobil-malang-innova-reborn/" title="Rental Mobil Malang &#8211; Innova Reborn">Rental Mobil Malang &#8211; Innova Reborn</a></div>
+<div class="rental-title-produk"><a href="https://rentcar-malang.com/rental-mobil-malang-innova-reborn/" title="Rental Mobil Malang &#8211; Innova Reborn">Bromo Trip</a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
-    <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 600.000</strong></span></li>
+                <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 400.000</strong></span></li>
              
  						
-    <li><span>Durasi :</span> <span class="right">FULL DAY (NO BBM)</span></li>
-
-      <li><span>Harga 2 :</span> <span class="right"><strong class="hargamobil">RP 750.000</strong></span></li>
-            
-						
-    <li><span>Durasi :</span> <span class="right">FULL DAY + BBM</span></li> 
-    
-    	
-						
-    <li><span>Termasuk :</span> <span class="right">MOBIL + DRIVER</span></li>
-     
-    	
-						
-    <li><span>Mesin :</span> <span class="right">2000 cc</span></li>
- 
-            
-						
-    <li><span>Tahun Pembuatan :</span> <span class="right">2016</span></li>
- 
-          
-							
-    <li><span>Kapasitas :</span> <span class="right">Maks 6 orang</span></li>
+             <li><span>Destinasi :</span> <span class="right">All Destinasi</span></li>
+         
+             <li><span>Fasilitas :</span> <span class="right">- </strong></span></li>
+                     
+                     
+             <li><span>Lokasi Jemput :</span> <span class="right">Batu</span></li> 
+             
+                   
+                       
+             <li><span>Kapasitas :</span> <span class="right">1 orang</span></li
  
             
             </ul>
@@ -169,38 +157,26 @@
 </div></div>
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/sewa-elf-di-malang-termurah/" title="Sewa Elf di Malang Termurah"><img src="https://rentcar-malang.com/wp-content/uploads/2017/11/sewamobilmalang-2-220x83.jpg" alt="Sewa Elf di Malang Termurah" width="220" height="83"  />
+<div class="rental-gambar"><a href="https://rentcar-malang.com/sewa-elf-di-malang-termurah/" title="Sewa Elf di Malang Termurah"><img src="img/sd.jfif" alt="Sewa Elf di Malang Termurah" width="220" height="138""  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/sewa-elf-di-malang-termurah/" title="Sewa Elf di Malang Termurah">Sewa Elf di Malang Termurah</a></div>
+<div class="rental-title-produk"><a href="https://rentcar-malang.com/sewa-elf-di-malang-termurah/" title="Sewa Elf di Malang Termurah">Bromo Trip</a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
-    <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 900.000</strong></span></li>
+                <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 500.000</strong></span></li>
              
  						
-    <li><span>Durasi :</span> <span class="right">HARIAN</span></li>
-
-      <li><span>Harga 2 :</span> <span class="right"><strong class="hargamobil">RP 1.000.000</strong></span></li>
-            
-						
-    <li><span>Durasi :</span> <span class="right">HARIAN</span></li> 
-    
-    	
-						
-    <li><span>Termasuk :</span> <span class="right">MOBIL+SUPIR+BBM</span></li>
-     
-    	
-						
-    <li><span>Mesin :</span> <span class="right">2800 cc</span></li>
- 
-            
-						
-    <li><span>Tahun Pembuatan :</span> <span class="right">2014</span></li>
- 
-          
-							
-    <li><span>Kapasitas :</span> <span class="right">Maks 12 orang</span></li>
+             <li><span>Destinasi :</span> <span class="right">All Destinasi</span></li>
+         
+             <li><span>Fasilitas :</span> <span class="right">- </strong></span></li>
+                     
+                     
+             <li><span>Lokasi Jemput :</span> <span class="right">Surabaya</span></li> 
+             
+                   
+                       
+             <li><span>Kapasitas :</span> <span class="right">1 orang</span></li
  
             
             </ul>
@@ -213,38 +189,26 @@
 </div></div>
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/sewa-mobil-murah-hiace/" title="Sewa Mobil Hiace di Malang"><img src="https://rentcar-malang.com/wp-content/uploads/2017/10/Sewa-Mobil-Malang-5-220x113.png" alt="Sewa Mobil Hiace di Malang" width="220" height="113"  />
+<div class="rental-gambar"><a href="https://rentcar-malang.com/sewa-mobil-murah-hiace/" title="Sewa Mobil Hiace di Malang"><img src="img/y.jfif" alt="Sewa Mobil Hiace di Malang" width="220" height="138"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/sewa-mobil-murah-hiace/" title="Sewa Mobil Hiace di Malang">Sewa Mobil Hiace di Malang</a></div>
+<div class="rental-title-produk"><a href="https://rentcar-malang.com/sewa-mobil-murah-hiace/" title="Sewa Mobil Hiace di Malang">Full Trip</a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
-    <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 1.100.000</strong></span></li>
+                <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 2.000.000</strong></span></li>
              
  						
-    <li><span>Durasi :</span> <span class="right">HARIAN</span></li>
-
-      <li><span>Harga 2 :</span> <span class="right"><strong class="hargamobil">RP 1.200.000</strong></span></li>
-            
-						
-    <li><span>Durasi :</span> <span class="right">HARIAN</span></li> 
-    
-    	
-						
-    <li><span>Termasuk :</span> <span class="right">MOBIL+SUPIR+BBM</span></li>
-     
-    	
-						
-    <li><span>Mesin :</span> <span class="right">2500 cc</span></li>
- 
-            
-						
-    <li><span>Tahun Pembuatan :</span> <span class="right">2014</span></li>
- 
-          
-							
-    <li><span>Kapasitas :</span> <span class="right">Maks 15 orang</span></li>
+             <li><span>Destinasi :</span> <span class="right">All Destinasi</span></li>
+         
+             <li><span>Fasilitas :</span> <span class="right">Full Fasilitas </strong></span></li>
+                     
+                     
+             <li><span>Lokasi Jemput :</span> <span class="right">Malang</span></li> 
+             
+                   
+                       
+             <li><span>Kapasitas :</span> <span class="right">6 orang</span></li
  
             
             </ul>
