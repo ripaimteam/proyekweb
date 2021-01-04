@@ -32,7 +32,7 @@
 <div class="rental-gambar"><a  ><img src="img/per.jpeg" width="220" height="147"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a>Private Trip</a></div>
+<div class="rental-title-produk"><a>Private Trip 1</a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
@@ -65,7 +65,7 @@
 <div class="rental-gambar"><a><img src="img/wer.jfif"  width="220" height="150"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a > Private Trip</div>
+<div class="rental-title-produk"><a > Private Trip 2</div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
@@ -98,7 +98,7 @@
 <div class="rental-gambar"><a ><img src="img/se.jfif"  width="220" height="150"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a >Bromo Trip </a></div>
+<div class="rental-title-produk"><a >Bromo Trip 1 </a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
@@ -129,7 +129,7 @@
 <div class="rental-gambar"><a ><img src="img/er.jfif"  width="220" height="138"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a >Bromo Trip</a></div>
+<div class="rental-title-produk"><a >Bromo Trip 2</a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
