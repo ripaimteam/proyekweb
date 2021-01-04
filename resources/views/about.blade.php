@@ -8,7 +8,7 @@
     <div class="col-sm-4">
         <div class="page-header float-left">
             <div class="page-title">
-                <h1>About</h1>
+                <marquee align="center" direction="right" height="50" scrollamount="5" width="2500%"><h1>About</h1></marquee>
             </div>
         </div>
     </div>
@@ -37,7 +37,7 @@
 		<div class="contain">		
 			<div class="wrap-post full">
 				<p><b>Bromo Traveling</b></p>
-<p><img loading="lazy" class="alignnone wp-image-960 size-full" src="img/favicon.png" alt="" width="200" height="107" /></p>
+<p><img loading="lazy" class="alignnone wp-image-960 size-full" src="img/favicon.png" alt="" width="200" height="170" /></p>
 <p>Adalah penyedia jasa Rental Mobil Tour and Travel yang berada di kota Malang Jawa Timur. Bila anda berkunjung ke kota Malang tidak salah bila memilih kami sebagai tour organizer bagi anda dan keluarga, kerabat, teman sahabat atau kolega anda</p>
 <p>Kami menyediakan berbagai pilihan paket tour di jawa dan bali salah satu diantaranya :</p>
 <ul>
