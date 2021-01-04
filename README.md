@@ -14,9 +14,8 @@
 - Google Maps
 - Live Chat
 - Share to Sosmed
-- Comment
 - Chat to WhatsApp
-- Login with Google
+
 
 ## Isi Project
 
