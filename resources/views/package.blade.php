@@ -64,7 +64,7 @@
 <div class="rental-gambar"><a href="https://rentcar-malang.com/sewa-mobil-malang-avanza/" title="Sewa Mobil Malang &#8211; Avanza"><img src="img/wer.jfif" alt="Sewa Mobil Malang &#8211; Avanza" width="220" height="150"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/sewa-mobil-malang-avanza/" title="Sewa Mobil Malang &#8211; Avanza"> private Trip</div>
+<div class="rental-title-produk"><a href="https://rentcar-malang.com/sewa-mobil-malang-avanza/" title="Sewa Mobil Malang &#8211; Avanza"> Private Trip</div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
@@ -94,39 +94,26 @@
 </div></div>
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/rental-mobil-malang-avanza/" title="Rental Mobil Malang &#8211; Avanza"><img src="https://rentcar-malang.com/wp-content/uploads/2017/10/Sewa-Mobil-Malang-2-220x150.png" alt="Rental Mobil Malang &#8211; Avanza" width="220" height="150"  />
+<div class="rental-gambar"><a href="https://rentcar-malang.com/rental-mobil-malang-avanza/" title="Rental Mobil Malang &#8211; Avanza"><img src="img/se.jfif" alt="Rental Mobil Malang &#8211; Avanza" width="220" height="150"  />
 </a>
 </div></div>
-<div class="rental-title-produk"><a href="https://rentcar-malang.com/rental-mobil-malang-avanza/" title="Rental Mobil Malang &#8211; Avanza">Rental Mobil Malang &#8211; Avanza</a></div>
+<div class="rental-title-produk"><a href="https://rentcar-malang.com/rental-mobil-malang-avanza/" title="Rental Mobil Malang &#8211; Avanza">Bromo Trip </a></div>
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
-    <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 450.000</strong></span></li>
+                <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 400.000</strong></span></li>
              
  						
-    <li><span>Durasi :</span> <span class="right">12 JAM</span></li>
-
-      <li><span>Harga 2 :</span> <span class="right"><strong class="hargamobil">RP 500.000</strong></span></li>
-            
-						
-    <li><span>Durasi :</span> <span class="right">FulldaY (06.00 - 23.30)</span></li> 
-    
-    	
-						
-    <li><span>Termasuk :</span> <span class="right">MOBIL+DRIVER+BBM</span></li>
-     
-    	
-						
-    <li><span>Mesin :</span> <span class="right">1500 cc</span></li>
- 
-            
-						
-    <li><span>Tahun Pembuatan :</span> <span class="right">2013</span></li>
- 
-          
-							
-    <li><span>Kapasitas :</span> <span class="right">Maks 6 orang</span></li>
- 
+             <li><span>Destinasi :</span> <span class="right">All Destinasi</span></li>
+         
+             <li><span>Fasilitas :</span> <span class="right">- </strong></span></li>
+                     
+                     
+             <li><span>Lokasi Jemput :</span> <span class="right">Malang</span></li> 
+             
+                   
+                       
+             <li><span>Kapasitas :</span> <span class="right">1 orang</span></li>
             
             </ul>
     </div>
@@ -138,7 +125,7 @@
 </div></div>
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
-<div class="rental-gambar"><a href="https://rentcar-malang.com/rental-mobil-malang-innova-reborn/" title="Rental Mobil Malang &#8211; Innova Reborn"><img src="https://rentcar-malang.com/wp-content/uploads/2017/10/Sewa-Mobil-Malang-4-220x138.png" alt="Rental Mobil Malang &#8211; Innova Reborn" width="220" height="138"  />
+<div class="rental-gambar"><a href="https://rentcar-malang.com/rental-mobil-malang-innova-reborn/" title="Rental Mobil Malang &#8211; Innova Reborn"><img src="img/images.jfif" alt="Rental Mobil Malang &#8211; Innova Reborn" width="220" height="138"  />
 </a>
 </div></div>
 <div class="rental-title-produk"><a href="https://rentcar-malang.com/rental-mobil-malang-innova-reborn/" title="Rental Mobil Malang &#8211; Innova Reborn">Rental Mobil Malang &#8211; Innova Reborn</a></div>
