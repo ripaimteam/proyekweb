@@ -29,10 +29,6 @@ Route::get('package', function () {
     return view('package');
 });
 
-Route::get('contact', function () {
-    return view('contact');
-});
-
 
 Route:: get('/contact', 'ContactController@contact');
 
