@@ -36,3 +36,6 @@ Route::get('contact', function () {
 Route::get('about', function () {
     return view('about');
 });
+Route:: get('/contact', 'ContactController@contact');
+
+Route:: get('/about', 'AboutController@about');
