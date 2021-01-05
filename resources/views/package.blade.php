@@ -27,8 +27,9 @@
 
 @section('content')
 <div class="page-header float-left">
-            <div class="page-title">
-                <ol class="breadcrumb text-center">
+    <div class="page-header float-right">
+        <div class="page-title">
+            <ol class="breadcrumb text-right"></ol>
                 <div class="row"><div class="boxer2">
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
@@ -39,18 +40,10 @@
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
-    <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 1.500.000</strong></span></li>
-             
- 						
+    <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 1.500.000</strong></span></li>					
     <li><span>Destinasi :</span> <span class="right">All Destinasi</span></li>
-
-    <li><span>Fasilitas :</span> <span class="right">Non Dokumentasi </strong></span></li>
-            
-						
-    <li><span>Lokasi Jemput :</span> <span class="right">Malang</span></li> 
-    
-          
-							
+    <li><span>Fasilitas :</span> <span class="right">Non Dokumentasi </strong></span></li>				
+    <li><span>Lokasi Jemput :</span> <span class="right">Malang</span></li> 					
     <li><span>Kapasitas :</span> <span class="right">Maks 6 orang</span></li>
  
             
