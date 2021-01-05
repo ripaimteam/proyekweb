@@ -60,8 +60,8 @@
                             <button type="submit" class="btn btn-primary">
                                 {{ __('Login') }}
                             </button>
-                            <a href="{{ url('google') }}" class="btn btn-primary">
-                                Login with Google
+                            <a href="/register">
+                                Register
                             </a>
                     
                             @if (Route::has('password.request'))
