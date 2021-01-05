@@ -39,19 +39,19 @@
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
-    <span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 1.500.000</strong></span>
+    ><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 1.500.000</strong></span></li>
              
  						
-    <span>Destinasi :</span> <span class="right">All Destinasi</span></li>
+    <li><span>Destinasi :</span> <span class="right">All Destinasi</span></li>
 
-    <span>Fasilitas :</span> <span class="right">Non Dokumentasi </strong></span></li>
+    <li><span>Fasilitas :</span> <span class="right">Non Dokumentasi </strong></span></li>
             
 						
-    <span>Lokasi Jemput :</span> <span class="right">Malang</span></li> 
+    <li><span>Lokasi Jemput :</span> <span class="right">Malang</span></li> 
     
           
 							
-    <span>Kapasitas :</span> <span class="right">Maks 6 orang</span></li>
+    <li><span>Kapasitas :</span> <span class="right">Maks 6 orang</span></li>
  
             
             </ul>
