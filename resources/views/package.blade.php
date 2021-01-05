@@ -39,7 +39,7 @@
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
-    ><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 1.500.000</strong></span></li>
+    <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 1.500.000</strong></span></li>
              
  						
     <li><span>Destinasi :</span> <span class="right">All Destinasi</span></li>
