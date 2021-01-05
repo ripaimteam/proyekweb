@@ -21,9 +21,7 @@ Route::get('/register', function () {
     return view('register');
 });
 
-Route::get('home', function () {
-    return view('home');
-});
+Route:: get('/home', 'HomeController@home');
 
 Route:: get('/package', 'PackageController@package');
 
