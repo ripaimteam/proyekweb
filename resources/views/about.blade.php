@@ -26,32 +26,32 @@
 @endsection
 
 @section('content')
-<div id="areaprint">
-	<div id="headback">
+	<div id="areaprint">
+		<div id="headback">
 		<div class="overback bgtop"></div>
 		<div class="titleheader">
-		
+			
 		</div>
-	</div>
-	<div id="conwrap">
-		<div class="contain">		
-			<div class="wrap-post full">
-				<p><b>Bromo Traveling</b></p>
-<p><img loading="lazy" class="alignnone wp-image-960 size-full" src="img/favicon.png" alt="" width="200" height="170" /></p>
-<p>Adalah penyedia jasa Rental Mobil Tour and Travel yang berada di kota Malang Jawa Timur. Bila anda berkunjung ke kota Malang tidak salah bila memilih kami sebagai tour organizer bagi anda dan keluarga, kerabat, teman sahabat atau kolega anda</p>
-<p>Kami menyediakan berbagai pilihan paket tour di jawa dan bali salah satu diantaranya :</p>
-<ul>
-<li>Trip Gunung Bromo</li>
+		</div>
+		<div class="page-header float-right">
+			<div class="page-title">
+				<ol class="breadcrumb text-right"></ol>
+					<p><b>Bromo Traveling</b></p>
+	<p><img loading="lazy" class="alignnone wp-image-960 size-full" src="img/favicon.png" alt="" width="200" height="170" /></p>
+	<p>Adalah penyedia jasa Rental Mobil Tour and Travel yang berada di kota Malang Jawa Timur. Bila anda berkunjung ke kota Malang tidak salah bila memilih kami sebagai tour organizer bagi anda dan keluarga, kerabat, teman sahabat atau kolega anda</p>
+	<p>Kami menyediakan berbagai pilihan paket tour di jawa dan bali salah satu diantaranya :</p>
+	<ul>
+	<h4>Trip Gunung Bromo</h4>
 
-</ul>
-<p><strong>VISI </strong></p>
-<p>Menjadi travel agent yang terbaik dan terpercaya dalam memberikan mutu serta pelayanan kepada para wisatawan.</p>
-<p><strong>MISI</strong></p>
-<p>1. Membantu memudahkan perencanaan perjalanan yang nyaman bagi para calon wisatawan.<br />
-2. Memberikan banyak pilihan dalam paket – paket perjalanan yang menarik dan berkualitas.<br />
-3. Membantu dalam hal pemesanan tiket domestik dan internasional sesuai dengan tanggal keberangkatan yang diinginkan pengguna jasa.<br />
-4. Selalu berusaha meningkatkan pelayanan terbaik demi kepuasan pengguna jasa.</p>
-								<div>
+	</ul>
+	<p><strong>VISI </strong></p>
+	<p>Menjadi travel agent yang terbaik dan terpercaya dalam memberikan mutu serta pelayanan kepada para wisatawan.</p>
+	<p><strong>MISI</strong></p>
+	<p>1. Membantu memudahkan perencanaan perjalanan yang nyaman bagi para calon wisatawan.<br />
+	2. Memberikan banyak pilihan dalam paket – paket perjalanan yang menarik dan berkualitas.<br />
+	3. Membantu dalam hal pemesanan tiket domestik dan internasional sesuai dengan tanggal keberangkatan yang diinginkan pengguna jasa.<br />
+	4. Selalu berusaha meningkatkan pelayanan terbaik demi kepuasan pengguna jasa.</p>
+	<div>
 	<p class="small"># Bagikan informasi ini kepada teman atau kerabat Anda</p>	<!-- Facebook -->
 	<a href="http://www.facebook.com/sharer.php?u=https://karimatawisata.com/tentang-kami/&amp;t=Tentang Kami" target="_blank" title="Bagikan ke Facebook">
 	<span class="el-icon-facebook shareicon" style="color:#3B5997"></span></a>
