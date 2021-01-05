@@ -26,7 +26,10 @@
 @endsection
 
 @section('content')
-<div class="row"><div class="boxer2">
+<div class="page-header float-left">
+            <div class="page-title">
+                <ol class="breadcrumb text-center">
+                <div class="row"><div class="boxer2">
 <div class="col-md-4"><div class="rental-produk"> 
 <div class="rental-gambar-center">
 <div class="rental-gambar"><a  ><img src="img/per.jpeg" width="220" height="147"  />
@@ -36,19 +39,19 @@
 <div class="widget biz_hours-widget list">
                 <ul class="unstyled">
         								
-    <li><span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 1.500.000</strong></span></li>
+    <span>Harga :</span> <span class="right"><strong class="hargamobil">Rp 1.500.000</strong></span>
              
  						
-    <li><span>Destinasi :</span> <span class="right">All Destinasi</span></li>
+    <span>Destinasi :</span> <span class="right">All Destinasi</span></li>
 
-    <li><span>Fasilitas :</span> <span class="right">Non Dokumentasi </strong></span></li>
+    <span>Fasilitas :</span> <span class="right">Non Dokumentasi </strong></span></li>
             
 						
-    <li><span>Lokasi Jemput :</span> <span class="right">Malang</span></li> 
+    <span>Lokasi Jemput :</span> <span class="right">Malang</span></li> 
     
           
 							
-    <li><span>Kapasitas :</span> <span class="right">Maks 6 orang</span></li>
+    <span>Kapasitas :</span> <span class="right">Maks 6 orang</span></li>
  
             
             </ul>
@@ -218,6 +221,10 @@
 <div class="tombol">
 <a href="https://api.whatsapp.com/send?phone=+6289601506336&text=Halo"> <font color="red">Pesan Sekarang</font></button></a>
 </div>
+                </ol>
+            </div>
+        </div>
+
 
 
 

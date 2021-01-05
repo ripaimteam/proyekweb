@@ -6,7 +6,7 @@
 
 <div class="breadcrumbs">
     <div class="col-sm-4">
-        <div class="page-header float-left">
+        <div class="page-header ">
             <div class="page-title">
                 <h1>Dashboard</h1>
             </div>
@@ -30,10 +30,10 @@
     <div class="content mt-3">
     
         <div class="animated fadeIn">
-            
-        </div>
-
-    </div>
+        <div class="page-header float-right">
+            <div class="page-title">
+                <ol class="breadcrumb text-right">
+                </div>
     <h2 class='post-title entry-title'>Mau Paket Wisata Murah? Open Trip Bromo Sunrise New Normal 2020</h2>
 <div class='post-header'>
 <div class='post-header-line-1'>
@@ -59,5 +59,12 @@ Open Trip Gunung Bromo Sunrise Murah, Paket wisata gabungan atau sharing trip at
 Bromo Sunrise setiap hari dari kota Batu dan Malang, setiap minggu dari Surabaya, Bromo - Air Terjun Madakaripura, Bromo Puncak B29/P30 dan Bromo - Kawah Ijen dengan pemberangkatan terjadwal setiap bulan hingga akhir tahun 2020.<br />
 <br />
 
-<iframe type="text/html" frameborder="0" width="900" height="600" src="https://www.youtube.com/embed/cgopt2BxGFw?autoplay=1&modestbranding=1" allowfullscreen></iframe>
+<iframe type="text/html" frameborder="0" width="900" height="600" src="https://www.youtube.com/embed/cgopt2BxGFw?autoplay=1&modestbranding=1" allowfullscreen></iframe>  
+                </ol>
+            </div>
+        </div>
+        </div>
+
+    </div>
+    
 @endsection 
