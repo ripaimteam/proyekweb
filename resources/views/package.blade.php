@@ -16,7 +16,7 @@
         <div class="page-header float-right">
             <div class="page-title">
                 <ol class="breadcrumb text-right">
-                    <li><a href="/home">BromoTravelling</a></li>
+                    <li><a href="/home">Super Laundry</a></li>
                 </ol>
             </div>
         </div>

@@ -16,7 +16,7 @@
         <div class="page-header float-right">
             <div class="page-title">
                 <ol class="breadcrumb text-right">
-                    <li><a href="/home">BromoTravelling</a></li>
+                    <li><a href="/home">Super Laundry</a></li>
                 </ol>
             </div>
         </div>
@@ -34,7 +34,7 @@
         <br>&nbsp;&nbsp;Nama     : Muhammad Ivan Fadhilah
         <br>&nbsp;&nbsp;Whatsapp : 089514286426
         <br>&nbsp;&nbsp;SosMed   : <a href="/contact">Instagram/Facebook/Twitter</a>
-        <br>&nbsp;&nbsp;Domisili : Malang Soekarno Hatta
+       <!-- <br>&nbsp;&nbsp;Domisili : Malang Soekarno Hatta -->
     </table>
     <hr>
     <h3>&nbsp;&nbsp;My Lokasi</h3>

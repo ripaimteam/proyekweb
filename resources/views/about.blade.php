@@ -16,7 +16,7 @@
         <div class="page-header float-right">
             <div class="page-title">
                 <ol class="breadcrumb text-right">
-                    <li><a href="/home">BromoTravelling</a></li>
+                    <li><a href="/home">Super Laundry</a></li>
                 </ol>
             </div>
         </div>
@@ -36,7 +36,7 @@
 		<div class="page-header float-right">
 			<div class="page-title">
 				<ol class="breadcrumb text-right"></ol>
-					<p><b>Bromo Traveling</b></p>
+					<p><b>Super Laundry</b></p>
 	<p><img loading="lazy" class="alignnone wp-image-960 size-full" src="img/favicon.png" alt="" width="200" height="170" /></p>
 	<p>Adalah penyedia jasa Rental Mobil Tour and Travel yang berada di kota Malang Jawa Timur. Bila anda berkunjung ke kota Malang tidak salah bila memilih kami sebagai tour organizer bagi anda dan keluarga, kerabat, teman sahabat atau kolega anda</p>
 	<p>Kami menyediakan berbagai pilihan paket tour di jawa dan bali salah satu diantaranya :</p>
@@ -45,12 +45,12 @@
 
 	</ul>
 	<p><strong>VISI </strong></p>
-	<p>Menjadi travel agent yang terbaik dan terpercaya dalam memberikan mutu serta pelayanan kepada para wisatawan.</p>
+	<p>Menjadi solusi bagi kebutuhan masyarakat melalui platform online maupun offline dengan mengembangkan ekosistem bisnis yang sangat pesat di era modern saat ini.</p>
 	<p><strong>MISI</strong></p>
-	<p>1. Membantu memudahkan perencanaan perjalanan yang nyaman bagi para calon wisatawan.<br />
-	2. Memberikan banyak pilihan dalam paket – paket perjalanan yang menarik dan berkualitas.<br />
-	3. Membantu dalam hal pemesanan tiket domestik dan internasional sesuai dengan tanggal keberangkatan yang diinginkan pengguna jasa.<br />
-	4. Selalu berusaha meningkatkan pelayanan terbaik demi kepuasan pengguna jasa.</p>
+	<p>1. Menjadikan kebutuhan sehari-hari lebih mudah dan lebih cepat dengan teknologi.<br />
+	2. Menciptakan lingkungan bisnis yang terbuka dan kompetitif.<br />
+	3. Menciptakan inovasi baru untuk mendukung unit bisnis.<br />
+	4. Memberikan pengalaman terbaik bagi pengguna.</p>
 	<div>
 	<p class="small"># Bagikan informasi ini kepada teman atau kerabat Anda</p>	<!-- Facebook -->
 	<a href="http://www.facebook.com/sharer.php?u=https://karimatawisata.com/tentang-kami/&amp;t=Tentang Kami" target="_blank" title="Bagikan ke Facebook">
