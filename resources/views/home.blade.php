@@ -50,10 +50,12 @@
     </div>
     </div>
         <div class='post-body entry-content float-container' id='post-body-8447892443786240306'>
-        <a href="https://1.bp.blogspot.com/-PcyaoBRvACc/X6q5lXe8CTI/AAAAAAABYw4/4ykid95fGiAwmPqhGeHvLnUXCp8xkHfCgCPcBGAYYCw/s1600/open-trip-bromo.jpg" ><img alt="wisata bromo" border="P" src="https://i.pinimg.com/originals/b4/74/6d/b4746d7a7393feff2389ef918fca4a70.png" title="paket wisata open trip bromo sunrise new normal 2020"/></a><br />
+    <!--    <a href="https://1.bp.blogspot.com/-PcyaoBRvACc/X6q5lXe8CTI/AAAAAAABYw4/4ykid95fGiAwmPqhGeHvLnUXCp8xkHfCgCPcBGAYYCw/s1600/open-trip-bromo.jpg" > -->
+        <img alt="wisata bromo" border="P" src="https://i.pinimg.com/originals/b4/74/6d/b4746d7a7393feff2389ef918fca4a70.png" title="paket wisata open trip bromo sunrise new normal 2020"/></a><br />
     <br />
-    Open Trip Gunung Bromo Sunrise Murah, Paket wisata gabungan atau sharing trip atau open trip dengan destinasi utama Gunung dan Kawah Bromo, serta fenomena alam Golden Sunrise Gunung Bromo. Kami kemas dalam paket wisata tanpa menginap dengan 5 (lima) variasi paket open trip Bromo.<br />
-    Bromo Sunrise setiap hari dari kota Batu dan Malang, setiap minggu dari Surabaya, Bromo - Air Terjun Madakaripura, Bromo Puncak B29/P30 dan Bromo - Kawah Ijen dengan pemberangkatan terjadwal setiap bulan hingga akhir tahun 2020.<br />
+    Kami bisa menjadi opsi atas pakaian kamu yang menumpuk tapi kamu gak punya waktu untuk mencucinya, hal itu tidak menjadi alasan untuk kamu semakin pusing tujuh keliling dalam menjalani hari.<br />
+    Tidak bisa dipungkiri bahwa perkembangan teknologi semakin mumpuni di masa sekarang, khususnya di bidang laundry pakaian.<br />
+    Perkembangan tersebut menciptakan inovasi yang cocok banget untuk kamu yang males gerak alias mager dalam mencuci pakaian sendiri atau bahkan mencari jasa laundry secara langsung.<br />
     <br />
 
 <!--    <iframe type="text/html" frameborder="0" width="900" height="600" src="https://www.youtube.com/embed/cgopt2BxGFw?autoplay=1&modestbranding=1" allowfullscreen></iframe> -->  
