@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>@yield('title') Welcome to Bromo Travelling</title>
+    <title>@yield('title') Welcome to Super Laundry</title>
     <link rel="shortcut icon" type="image/png" href="img/favicon.png">
     <meta name="description" content="Sufee Admin - HTML5 Admin Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,8 +36,8 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="">Bromo Travelling</a>
-                <a class="navbar-brand hidden" href="">Bromo</a>
+                <a class="navbar-brand" href="">Super Laundry</a>
+                <a class="navbar-brand hidden" href="">Laundry</a>
             </div>
             <!-- {{ asset('style/') }} -->
             <div id="main-menu" class="main-menu collapse navbar-collapse">
@@ -199,7 +199,7 @@
                 <div class="col-sm-5">
                     <div class="user-area dropdown float-right">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <img class="user-avatar rounded-circle" src="{{ asset('style/images/admin.jpg') }}" alt="User Avatar">
+                            <img class="user-avatar rounded-circle" src="{{ asset('style/images/admin.png') }}" alt="User Avatar">
                         </a>
 
                         <div class="user-menu dropdown-menu">

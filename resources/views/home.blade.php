@@ -34,15 +34,15 @@
             <div class="page-title">
                 <ol class="breadcrumb text-right">
                 </div>
-    <h2 class='post-title entry-title'>Mau Paket Wisata Murah? Open Trip Bromo Sunrise New Normal 2020</h2>
+    <h3 class='post-title entry-title'>Mau Laundry tanpa perlu datang ketempat laundry? Kami solusinya!!!</h3>
     <div class='post-header'>
     <div class='post-header-line-1'>
 
     <span class='byline post-author vcard'>
     <span class='post-author-label'><i aria-hidden='true' class='fa fa-user-circle'></i>Oleh</span>
     <span class='fn'>
-        <meta content='https://www.blogger.com/profile/14139626859020590146'/>
-        <a class='g-profile' href='https://www.blogger.com/profile/14139626859020590146' rel='author' title='author profile'>
+        <meta content='/home'/>
+        <a class='g-profile' href='/home' rel='author' title='author profile'>
         <span>Rip Aim</span>
         </a>
     </span>
